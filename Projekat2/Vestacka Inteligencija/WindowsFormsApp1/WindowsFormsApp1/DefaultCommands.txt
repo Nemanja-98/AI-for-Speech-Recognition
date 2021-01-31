@@ -1,0 +1,15 @@
+﻿Hi
+How are you
+What time is it
+Wake up
+Jarvis
+Stop talking
+Stop Listening
+Show commands
+Hide commands
+Open program
+Hide yourself
+Show yourself
+Shutdown
+SetReminder
+Reminders
